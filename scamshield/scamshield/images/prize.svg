@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#fefce8"/>
+  <rect x="210" y="160" width="180" height="140" rx="8" fill="#ca8a04"/>
+  <rect x="195" y="130" width="210" height="40" rx="8" fill="#eab308"/>
+  <rect x="285" y="130" width="30" height="170" fill="#dc2626"/>
+  <path d="M300 130 C250 70 200 100 240 125 Z M300 130 C350 70 400 100 360 125 Z" fill="#dc2626"/>
+  <g fill="#f59e0b"><circle cx="130" cy="110" r="8"/><circle cx="470" cy="100" r="10"/><circle cx="110" cy="250" r="6"/><circle cx="490" cy="240" r="7"/></g>
+  <text x="300" y="352" font-family="Arial" font-size="22" font-weight="700" fill="#854d0e" text-anchor="middle">"You won!" (but you never entered)</text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#fffbeb"/>
+  <line x1="90" y1="300" x2="520" y2="300" stroke="#92400e" stroke-width="4"/>
+  <line x1="90" y1="60" x2="90" y2="300" stroke="#92400e" stroke-width="4"/>
+  <polyline points="100,280 170,240 240,255 320,160 400,120 500,70" fill="none" stroke="#16a34a" stroke-width="7" stroke-linejoin="round"/>
+  <polyline points="500,70 520,150" fill="none" stroke="#ef4444" stroke-width="7" stroke-dasharray="10 8"/>
+  <circle cx="500" cy="70" r="12" fill="#f59e0b"/>
+  <text x="500" y="75" font-family="Arial" font-size="14" font-weight="800" fill="#fff" text-anchor="middle">$</text>
+  <text x="300" y="350" font-family="Arial" font-size="22" font-weight="700" fill="#92400e" text-anchor="middle">"Guaranteed returns": investment scams</text>
+</svg>

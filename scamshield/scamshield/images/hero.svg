@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#1e3a8a"/></linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <circle cx="650" cy="80" r="120" fill="#22d3ee" opacity=".12"/>
+  <circle cx="120" cy="380" r="150" fill="#2563eb" opacity=".25"/>
+  <rect x="300" y="60" width="200" height="330" rx="28" fill="#0b1220" stroke="#38bdf8" stroke-width="4"/>
+  <rect x="316" y="100" width="168" height="250" rx="10" fill="#e2e8f0"/>
+  <rect x="330" y="116" width="140" height="22" rx="4" fill="#ef4444"/>
+  <text x="400" y="132" font-family="Arial" font-size="12" font-weight="700" fill="#fff" text-anchor="middle">URGENT ALERT!</text>
+  <rect x="330" y="150" width="140" height="10" rx="3" fill="#94a3b8"/>
+  <rect x="330" y="168" width="110" height="10" rx="3" fill="#94a3b8"/>
+  <rect x="330" y="186" width="125" height="10" rx="3" fill="#94a3b8"/>
+  <rect x="340" y="220" width="120" height="30" rx="15" fill="#f59e0b"/>
+  <text x="400" y="240" font-family="Arial" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">CLICK HERE</text>
+  <path d="M590 190 q0 -60 -45 -60" fill="none" stroke="#fbbf24" stroke-width="5"/>
+  <path d="M590 190 q0 40 -30 40 q-30 0 -30 -26" fill="none" stroke="#fbbf24" stroke-width="5" stroke-linecap="round"/>
+  <path d="M545 130 L545 70" stroke="#fbbf24" stroke-width="5"/>
+  <circle cx="545" cy="64" r="8" fill="none" stroke="#fbbf24" stroke-width="4"/>
+  <path d="M210 150 L260 170 V215 C260 245 238 262 210 272 C182 262 160 245 160 215 V170 Z" fill="#22d3ee"/>
+  <path d="M190 215 l16 16 l30 -34" fill="none" stroke="#0f172a" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="400" y="425" font-family="Arial" font-size="20" font-weight="700" fill="#e0f2fe" text-anchor="middle">Think before you click</text>
+</svg>

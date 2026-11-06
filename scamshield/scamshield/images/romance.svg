@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#fdf2f8"/>
+  <path d="M300 280 C120 170 160 70 240 80 C275 84 295 110 300 125 C305 110 325 84 360 80 C440 70 480 170 300 280 Z" fill="#ec4899"/>
+  <rect x="255" y="140" width="90" height="70" rx="10" fill="#fff"/>
+  <circle cx="300" cy="165" r="14" fill="#9d174d"/>
+  <path d="M270 205 q30 -34 60 0" fill="#9d174d"/>
+  <rect x="150" y="300" width="300" height="10" rx="5" fill="#f9a8d4"/>
+  <text x="300" y="350" font-family="Arial" font-size="22" font-weight="700" fill="#9d174d" text-anchor="middle">Romance scams: fake love, real loss</text>
+</svg>

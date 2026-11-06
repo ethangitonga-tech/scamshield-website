@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380">
+  <rect width="600" height="380" fill="#eef2ff"/>
+  <rect x="170" y="130" width="260" height="170" rx="18" fill="#4338ca"/>
+  <path d="M250 130 v-22 a14 14 0 0 1 14 -14 h72 a14 14 0 0 1 14 14 v22" fill="none" stroke="#4338ca" stroke-width="12"/>
+  <rect x="170" y="200" width="260" height="14" fill="#312e81"/>
+  <rect x="280" y="192" width="40" height="32" rx="6" fill="#fbbf24"/>
+  <g transform="rotate(12 440 120)"><rect x="380" y="90" width="130" height="52" rx="10" fill="#ef4444"/>
+  <text x="445" y="123" font-family="Arial" font-size="22" font-weight="800" fill="#fff" text-anchor="middle">PAY FEE</text></g>
+  <text x="300" y="352" font-family="Arial" font-size="22" font-weight="700" fill="#312e81" text-anchor="middle">Fake jobs: pay first, no job later</text>
+</svg>
